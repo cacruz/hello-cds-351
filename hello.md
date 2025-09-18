@@ -1,1 +1,2 @@
 - Hello, world! - English
+- Hej världen! - Swedish - Armon Kazemi
