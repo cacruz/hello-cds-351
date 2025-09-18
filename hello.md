@@ -1,1 +1,1 @@
-- Hello, world! - English
+- ሰላም ዓለም  ! - Tigrinya
