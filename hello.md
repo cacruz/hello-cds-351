@@ -1,1 +1,2 @@
 - Hello, world! - English
+- Bonjour le monde! - French
