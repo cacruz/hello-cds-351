@@ -1,2 +1,3 @@
 - Hello, world! - English
+- ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਦੁਨਿਆ ! (Sat Sri Akal Duniyā!) - Punjabi
 - Grüesech, Wäut! - Schwiizerdütsch
