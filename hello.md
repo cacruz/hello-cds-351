@@ -2,6 +2,7 @@
 - Привет, мир - Russian
 - Ahlan! - Arabic
 - Hello, world! - English
+- Bonjour le monde! - French
 - Hola Mundo! - Spanish
 - Hej världen! - Swedish - Armon Kazemi
 - "Bonjour le monde!" — French
