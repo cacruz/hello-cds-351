@@ -1,3 +1,4 @@
+- Привет, мир - Russian
 - Ahlan! - Arabic
 - Hello, world! - English
 - "Bonjour le monde!" — French
