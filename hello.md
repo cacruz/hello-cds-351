@@ -1,1 +1,12 @@
 - Marhaba! - Arabic
+- ሰላም ዓለም! - Tigrinya
+- Привет, мир - Russian
+- Ahlan! - Arabic
+- Hello, world! - English
+- Mohamed Sharif: I love cds-351 and Barcelona
+- Bonjour le monde! - French
+- Hola Mundo! - Spanish
+- Hej världen! - Swedish - Armon Kazemi
+- "Bonjour le monde!" — French
+- ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਦੁਨਿਆ ! (Sat Sri Akal Duniyā!) - Punjabi
+- Grüesech, Wäut! - Schwiizerdütsch
