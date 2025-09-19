@@ -2,6 +2,7 @@
 - Привет, мир - Russian
 - Ahlan! - Arabic
 - Hello, world! - English
+- Hej världen! - Swedish - Armon Kazemi
 - "Bonjour le monde!" — French
 - ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਦੁਨਿਆ ! (Sat Sri Akal Duniyā!) - Punjabi
 - Grüesech, Wäut! - Schwiizerdütsch
