@@ -1,3 +1,4 @@
+- Marhaba! - Arabic
 - ሰላም ዓለም! - Tigrinya
 - Привет, мир - Russian
 - Ahlan! - Arabic
