@@ -2,6 +2,7 @@
 - Привет, мир - Russian
 - Ahlan! - Arabic
 - Hello, world! - English
+- Mohamed Sharif: I love cds-351 and Barcelona
 - Bonjour le monde! - French
 - Hola Mundo! - Spanish
 - Hej världen! - Swedish - Armon Kazemi
