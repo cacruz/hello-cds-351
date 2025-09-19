@@ -1,1 +1,2 @@
 - Hello, world! - English
+- Grüesech, Wäut! - Schwiizerdütsch
