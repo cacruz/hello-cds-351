@@ -1,3 +1,4 @@
+- "Hello World!" - English
 - ሰላም ዓለም! - Tigrinya
 - Привет, мир - Russian
 - Ahlan! - Arabic
