@@ -1,2 +1,10 @@
+- ሰላም ዓለም! - Tigrinya
+- Привет, мир - Russian
+- Ahlan! - Arabic
 - Hello, world! - English
 - Bonjour le monde! - French
+- Hola Mundo! - Spanish
+- Hej världen! - Swedish - Armon Kazemi
+- "Bonjour le monde!" — French
+- ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਦੁਨਿਆ ! (Sat Sri Akal Duniyā!) - Punjabi
+- Grüesech, Wäut! - Schwiizerdütsch
