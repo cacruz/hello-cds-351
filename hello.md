@@ -1,2 +1,13 @@
 - Chào mọi người! – Vietnamese
+- Marhaba! - Arabic
+- ልምዓት ልዑል! - Tigrinya
+- Привет, мир - Russian
+- Ahlan! - Arabic
 - Hello, world! - English
+- Mohamed Sharif: I love cds-351 and Barcelona
+- Bonjour le monde! - French
+- Hola Mundo! - Spanish
+- Hej världen! - Swedish - Armon Kazemi
+- "Bonjour le monde!" – French
+- ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਦੁਨੀਆਂ ! (Sat Sri Akal Duniyaa!) - Punjabi
+- Grüesech, Wält! - Schwiizertütsch
