@@ -1,1 +1,2 @@
+- Chào mọi người! – Vietnamese
 - Hello, world! - English
