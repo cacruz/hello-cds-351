@@ -11,3 +11,4 @@
 - "Bonjour le monde!" – French
 - ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਦੁਨੀਆਂ ! (Sat Sri Akal Duniyaa!) - Punjabi
 - Grüesech, Wält! - Schwiizertütsch
+- Selam, Alemi! - Amharic
